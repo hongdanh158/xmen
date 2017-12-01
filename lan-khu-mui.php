@@ -8,29 +8,29 @@
     			<h3 class="cate-detail-title">Lăn khử mùi X-MEN FOR BOSS</h3>
 		  		<div class="all-product">
 		  			<div class="item motion">
-		  				<a href="#" class="images">
+		  				<a href="motion-lan-khu-mui.php" class="images">
 		  					<img src="images/cate-detail/lan-khu-mui/motion.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/lan-khu-mui/motion-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="motion-lan-khu-mui.php" class="tooltip">
 		  					Lăn khử mùi <br>X-MEN MOTION
 		  				</a>
 		  			</div>
 		  			<div class="item luxury">
-		  				<a href="#" class="images">
+		  				<a href="luxury-lan-khu-mui.php" class="images">
 		  					<img src="images/cate-detail/lan-khu-mui/luxury.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/lan-khu-mui/luxury-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="luxury-lan-khu-mui.php" class="tooltip">
 		  					Lăn khử mùi <br>X-MEN LUXURY
 		  				</a>
 		  			</div>
 		  			<div class="item intense">
-		  				<a href="#" class="images">
+		  				<a href="intense-lan-khu-mui.php" class="images">
 		  					<img src="images/cate-detail/lan-khu-mui/intense.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/lan-khu-mui/intense-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="intense-lan-khu-mui.php" class="tooltip">
 		  					Lăn khử mùi <br>X-MEN INTENSE
 		  				</a>
 		  			</div>

@@ -5,55 +5,55 @@
 			<div class="slider-product" style="background: url(images/luxury/background.jpg)">
 		  		<div class="all-product">
 		  			<div class="item spray">
-		  				<a href="#" class="images">
+		  				<a href="xit-toan-than.php" class="images">
 		  					<img src="images/motion/xit-khu-mui.png" alt="" class="thumbnail">
 		  					<img src="images/motion/xit-khu-mui-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
-		  					Xịt khử mùi <br>X-MEN MOTION
+		  				<a href="xit-toan-than.php" class="tooltip">
+		  					Xịt toàn thân <br>X-MEN MOTION
 		  				</a>
 		  			</div>
 		  			<div class="item shampoo">
-		  				<a href="#" class="images">
+		  				<a href="sua-tam-nuoc-hoa.php" class="images">
 		  					<img src="images/motion/dau-goi.png" alt="" class="thumbnail">
 		  					<img src="images/motion/dau-goi-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="sua-tam-nuoc-hoa.php" class="tooltip">
 		  					Sữa Tắm <br>X-MEN MOTION
 		  				</a>
 		  			</div>
 		  			<div class="item shower">
-		  				<a href="#" class="images">
+		  				<a href="dau-goi-nuoc-hoa.php" class="images">
 		  					<img src="images/motion/sua-tam.png" alt="" class="thumbnail">
 		  					<img src="images/motion/sua-tam-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="dau-goi-nuoc-hoa.php" class="tooltip">
 		  					Dầu gội <br>X-MEN MOTION
 		  				</a>
 		  			</div>
 		  			<div class="item perfume">
-		  				<a href="#" class="images">
+		  				<a href="nuoc-hoa.php" class="images">
 		  					<img src="images/motion/nuoc-hoa.png" alt="" class="thumbnail">
 		  					<img src="images/motion/nuoc-hoa-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">Nước hoa <br>X-MEN MOTION
+		  				<a href="nuoc-hoa.php" class="tooltip">Nước hoa <br>X-MEN MOTION
 		  				</a>
 		  			</div>
 		  			<div class="item roller">
-		  				<a href="#" class="images">
+		  				<a href="lan-khu-mui.php" class="images">
 		  					<img src="images/motion/lan-khu-mui.png" alt="" class="thumbnail">
 		  					<img src="images/motion/lan-khu-mui-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="lan-khu-mui.php" class="tooltip">
 		  					Lăn khử mùi <br> X-MEN MOTION
 		  				</a>
 		  			</div>
 		  			<div class="item wax">
-		  				<a href="#" class="images">
+		  				<a href="san-pham-tao-kieu-toc.php" class="images">
 		  					<img src="images/motion/wax.png" alt="" class="thumbnail">
 		  					<img src="images/motion/wax-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="san-pham-tao-kieu-toc.php" class="tooltip">
 		  					Sản phẩm tạo kiểu <br> X-MEN MOTION</a>
 		  			</div>
 		  		</div>
@@ -72,42 +72,42 @@
 			<div class="slider-product" style="background: url(images/luxury/background.jpg)">
 		  		<div class="all-product">
 		  			<div class="item spray">
-		  				<a href="#" class="images">
+		  				<a href="xit-toan-than.php" class="images">
 		  					<img src="images/luxury/xit-khu-mui.png" alt="" class="thumbnail">
 		  					<img src="images/luxury/xit-khu-mui-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
-		  					Xịt khử mùi <br>X-MEN LUXURY
+		  				<a href="xit-toan-than.php" class="tooltip">
+		  					Xịt toàn thân <br>X-MEN LUXURY
 		  				</a>
 		  			</div>
 		  			<div class="item shampoo">
-		  				<a href="#" class="images">
+		  				<a href="sua-tam-nuoc-hoa.php" class="images">
 		  					<img src="images/luxury/dau-goi.png" alt="" class="thumbnail">
 		  					<img src="images/luxury/dau-goi-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="sua-tam-nuoc-hoa.php" class="tooltip">
 		  					Sữa Tắm <br>X-MEN LUXURY
 		  				</a>
 		  			</div>
 		  			<div class="item shower">
-		  				<a href="#" class="images">
+		  				<a href="dau-goi-nuoc-hoa.php" class="images">
 		  					<img src="images/luxury/sua-tam.png" alt="" class="thumbnail">
 		  					<img src="images/luxury/sua-tam-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="dau-goi-nuoc-hoa.php" class="tooltip">
 		  					Dầu gội <br>X-MEN LUXURY
 		  				</a>
 		  			</div>
 		  			<div class="item perfume">
-		  				<a href="#" class="images">
+		  				<a href="nuoc-hoa.php" class="images">
 		  					<img src="images/luxury/nuoc-hoa.png" alt="" class="thumbnail">
 		  					<img src="images/luxury/nuoc-hoa-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">Nước hoa <br>X-MEN LUXURY
+		  				<a href="nuoc-hoa.php" class="tooltip">Nước hoa <br>X-MEN LUXURY
 		  				</a>
 		  			</div>
 		  			<div class="item roller">
-		  				<a href="#" class="images">
+		  				<a href="lan-khu-mui.php" class="images">
 		  					<img src="images/luxury/lan-khu-mui.png" alt="" class="thumbnail">
 		  					<img src="images/luxury/lan-khu-mui-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
@@ -116,11 +116,11 @@
 		  				</a>
 		  			</div>
 		  			<div class="item wax">
-		  				<a href="#" class="images">
+		  				<a href="san-pham-tao-kieu-toc.php" class="images">
 		  					<img src="images/luxury/wax.png" alt="" class="thumbnail">
 		  					<img src="images/luxury/wax-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="san-pham-tao-kieu-toc.php" class="tooltip">
 		  					Sản phẩm tạo kiểu <br> X-MEN LUXURY</a>
 		  			</div>
 		  		</div>
@@ -139,55 +139,55 @@
 			<div class="slider-product" style="background: url(images/luxury/background.jpg)">
 		  		<div class="all-product">
 		  			<div class="item spray">
-		  				<a href="#" class="images">
+		  				<a href="xit-toan-than.php" class="images">
 		  					<img src="images/intense/xit-khu-mui.png" alt="" class="thumbnail">
 		  					<img src="images/intense/xit-khu-mui-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
-		  					Xịt khử mùi <br>X-MEN INTENSE
+		  				<a href="xit-toan-than.php" class="tooltip">
+		  					Xịt toàn thân <br>X-MEN INTENSE
 		  				</a>
 		  			</div>
 		  			<div class="item shampoo">
-		  				<a href="#" class="images">
+		  				<a href="sua-tam-nuoc-hoa.php" class="images">
 		  					<img src="images/intense/dau-goi.png" alt="" class="thumbnail">
 		  					<img src="images/intense/dau-goi-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="sua-tam-nuoc-hoa.php" class="tooltip">
 		  					Sữa Tắm <br>X-MEN INTENSE
 		  				</a>
 		  			</div>
 		  			<div class="item shower">
-		  				<a href="#" class="images">
+		  				<a href="dau-goi-nuoc-hoa.php" class="images">
 		  					<img src="images/intense/sua-tam.png" alt="" class="thumbnail">
 		  					<img src="images/intense/sua-tam-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="dau-goi-nuoc-hoa.php" class="tooltip">
 		  					Dầu gội <br>X-MEN INTENSE
 		  				</a>
 		  			</div>
 		  			<div class="item perfume">
-		  				<a href="#" class="images">
+		  				<a href="nuoc-hoa.php" class="images">
 		  					<img src="images/intense/nuoc-hoa.png" alt="" class="thumbnail">
 		  					<img src="images/intense/nuoc-hoa-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">Nước hoa <br>X-MEN INTENSE
+		  				<a href="nuoc-hoa.php" class="tooltip">Nước hoa <br>X-MEN INTENSE
 		  				</a>
 		  			</div>
 		  			<div class="item roller">
-		  				<a href="#" class="images">
+		  				<a href="lan-khu-mui.php" class="images">
 		  					<img src="images/intense/lan-khu-mui.png" alt="" class="thumbnail">
 		  					<img src="images/intense/lan-khu-mui-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="lan-khu-mui.php" class="tooltip">
 		  					Lăn khử mùi <br> X-MEN INTENSE
 		  				</a>
 		  			</div>
 		  			<div class="item wax">
-		  				<a href="#" class="images">
+		  				<a href="san-pham-tao-kieu-toc.php" class="images">
 		  					<img src="images/intense/wax.png" alt="" class="thumbnail">
 		  					<img src="images/intense/wax-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="san-pham-tao-kieu-toc.php" class="tooltip">
 		  					Sản phẩm tạo kiểu <br> X-MEN INTENSE</a>
 		  			</div>
 		  		</div>

@@ -8,29 +8,29 @@
     			<h3 class="cate-detail-title">Nước hoa X-MEN FOR BOSS</h3>
 		  		<div class="all-product perfume">
 		  			<div class="item motion">
-		  				<a href="#" class="images">
+		  				<a href="motion-nuoc-hoa.php" class="images">
 		  					<img src="images/cate-detail/nuoc-hoa/motion.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/nuoc-hoa/motion-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="motion-nuoc-hoa.php" class="tooltip">
 		  					Nước hoa <br>X-MEN MOTION
 		  				</a>
 		  			</div>
 		  			<div class="item luxury">
-		  				<a href="#" class="images">
+		  				<a href="luxury-nuoc-hoa.php" class="images">
 		  					<img src="images/cate-detail/nuoc-hoa/luxury.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/nuoc-hoa/luxury-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="luxury-nuoc-hoa.php" class="tooltip">
 		  					Nước hoa <br>X-MEN LUXURY
 		  				</a>
 		  			</div>
 		  			<div class="item intense">
-		  				<a href="#" class="images">
+		  				<a href="intense-nuoc-hoa.php" class="images">
 		  					<img src="images/cate-detail/nuoc-hoa/intense.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/nuoc-hoa/intense-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="intense-nuoc-hoa.php" class="tooltip">
 		  					Nước hoa <br>X-MEN INTENSE
 		  				</a>
 		  			</div>

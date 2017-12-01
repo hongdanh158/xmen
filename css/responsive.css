@@ -12,7 +12,7 @@
 		margin-left: 490px;
 	}
 	.cate-detail .slider-product .all-product.wax {
-		margin-top: 100px;
+		margin-top: 70px;
 		margin-left: 180px;
 	}
 	.cate-detail .slider-product .all-product.perfume {
@@ -442,8 +442,11 @@
 		left: 560px;
 	}
 	.cate-detail .slider-product .all-product.wax {
-		margin-top: 122px;
+		margin-top: 60px;
 		margin-left:  275px;
+	}
+	.cate-detail  .slider-product .all-product.gel {
+		margin-top: 70px;
 	}
 	.slider-product .all-product.wax .item .tooltip {
 		top: 125px;

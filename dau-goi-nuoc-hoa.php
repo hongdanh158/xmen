@@ -8,30 +8,30 @@
     			<h3 class="cate-detail-title">DẦU GỘI X-MEN FOR BOSS</h3>
 		  		<div class="all-product shampoo">
 		  			<div class="item motion">
-		  				<a href="#" class="images">
+		  				<a href="motion-dau-goi-nuoc-hoa.php" class="images">
 		  					<img src="images/cate-detail/dau-goi-650/motion.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/dau-goi-650/motion-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="motion-dau-goi-nuoc-hoa.php" class="tooltip">
 		  					Dầu gội <br>X-MEN MOTION
 		  				</a>
 		  			</div>
 		  			<div class="item luxury">
-		  				<a href="#" class="images">
+		  				<a href="luxury-dau-goi-nuoc-hoa.php" class="images">
 		  					<img src="images/cate-detail/dau-goi-650/luxury.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/dau-goi-650/luxury-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="luxury-dau-goi-nuoc-hoa.php" class="tooltip">
 		  					Dầu gội <br>X-MEN LUXURY
 		  				</a>
 		  				
 		  			</div>
 		  			<div class="item intense">
-		  				<a href="#" class="images">
+		  				<a href="intense-dau-goi-nuoc-hoa.php" class="images">
 		  					<img src="images/cate-detail/dau-goi-650/intense.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/dau-goi-650/intense-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="ntense-dau-goi-nuoc-hoa.php" class="tooltip">
 		  					Dầu gội <br>X-MEN INTENSE
 		  				</a>
 		  			</div>

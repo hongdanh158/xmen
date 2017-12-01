@@ -8,29 +8,29 @@
     			<h3 class="cate-detail-title">Tạo kiểu tóc X-MEN FOR BOSS</h3>
 		  		<div class="all-product wax">
 		  			<div class="item motion">
-		  				<a href="#" class="images">
+		  				<a href="motion-san-pham-tao-mau-toc-wax.php" class="images">
 		  					<img src="images/cate-detail/wax/motion.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/wax/motion-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="motion-san-pham-tao-mau-toc-wax.php" class="tooltip">
 		  					Wax tạo kiểu tóc <br>X-MEN MOTION
 		  				</a>
 		  			</div>
 		  			<div class="item luxury">
-		  				<a href="#" class="images">
+		  				<a href="luxury-san-pham-tao-mau-toc-wax.php" class="images">
 		  					<img src="images/cate-detail/wax/luxury.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/wax/luxury-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="luxury-san-pham-tao-mau-toc-wax.php" class="tooltip">
 		  					Wax tạo kiểu tóc <br>X-MEN LUXURY
 		  				</a>
 		  			</div>
 		  			<div class="item intense">
-		  				<a href="#" class="images">
+		  				<a href="intense-san-pham-tao-mau-toc-wax.php" class="images">
 		  					<img src="images/cate-detail/wax/intense.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/wax/intense-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="intense-san-pham-tao-mau-toc-wax.php" class="tooltip">
 		  					Wax tạo kiểu tóc <br>X-MEN INTENSE
 		  				</a>
 		  			</div>
@@ -40,7 +40,7 @@
     			<h3 class="cate-detail-title">Tạo kiểu tóc X-MEN FOR BOSS</h3>
 		  		<div class="all-product gel">
 		  			<div class="item intense">
-		  				<a href="#" class="images">
+		  				<a href="intense-san-pham-tao-mau-toc-gel.php" class="images">
 		  					<img src="images/cate-detail/gel/intense.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/gel/intense-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
@@ -49,7 +49,7 @@
 		  				</a>
 		  			</div>
 		  			<div class="item luxury">
-		  				<a href="#" class="images">
+		  				<a href="luxury-san-pham-tao-mau-toc-gel.php" class="images">
 		  					<img src="images/cate-detail/gel/luxury.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/gel/luxury-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
@@ -67,7 +67,7 @@
 	            dots: true,
 	            slidesToShow: 1,
 	            slidesToScroll: 1,
-	            autoplay: true,
+	            // autoplay: true,
 	            autoplaySpeed: 5000,
 	            adaptiveHeight: true,
 	            prevArrow: '.arrow-left',

@@ -788,7 +788,7 @@ a:focus, a:active {
 }
 .cate-detail .slider-product .all-product {
   float: left;
-  margin-top: 155px;
+  margin-top: 110px;
   margin-left: 640px;
   position: relative;
 }
@@ -864,10 +864,10 @@ a:focus, a:active {
   left: 480px;
 }
 .cate-detail .slider-product .all-product.gel .item {
-  width: 265px;
+  width: 285px;
 }
 .cate-detail .slider-product .all-product.gel .item.luxury {
- left: 345px;
+ left: 324px;
 }
 .cate-detail .slider-product .all-product.gel .item.intense {
   left: 35px;
@@ -886,6 +886,7 @@ a:focus, a:active {
   color: #c7c3c3;
   width: 100%;
   margin-top: 170px;
+  text-transform: uppercase;
 }
 .video-product {
   top: 0;

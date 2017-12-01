@@ -8,29 +8,29 @@
     			<h3 class="cate-detail-title">Sữa tắm X-MEN FOR BOSS</h3>
 		  		<div class="all-product">
 		  			<div class="item motion">
-		  				<a href="#" class="images">
+		  				<a href="motion-sua-tam-nuoc-hoa.php" class="images">
 		  					<img src="images/cate-detail/dau-goi-650/motion.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/dau-goi-650/motion-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="motion-sua-tam-nuoc-hoa.php" class="tooltip">
 		  					Sữa tắm <br>X-MEN MOTION
 		  				</a>
 		  			</div>
 		  			<div class="item luxury">
-		  				<a href="#" class="images">
+		  				<a href="luxury-sua-tam-nuoc-hoa.php" class="images">
 		  					<img src="images/cate-detail/dau-goi-650/luxury.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/dau-goi-650/luxury-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="luxury-sua-tam-nuoc-hoa.php" class="tooltip">
 		  					Sữa tắm <br>X-MEN LUXURY
 		  				</a>
 		  			</div>
 		  			<div class="item intense">
-		  				<a href="#" class="images">
+		  				<a href="intense-sua-tam-nuoc-hoa.php" class="images">
 		  					<img src="images/cate-detail/dau-goi-650/intense.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/dau-goi-650/intense-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="intense-sua-tam-nuoc-hoa.php" class="tooltip">
 		  					Sữa tắm <br>X-MEN INTENSE
 		  				</a>
 		  			</div>
@@ -40,7 +40,7 @@
     			<h3 class="cate-detail-title">Sữa tắm X-MEN FOR BOSS</h3>
 		  		<div class="all-product shower">
 		  			<div class="item intense">
-		  				<a href="#" class="images">
+		  				<a href="intense-xa-bong-cuc.php" class="images">
 		  					<img src="images/cate-detail/xa-bong-cuc/intense.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/xa-bong-cuc/intense-hover.png" alt="" class="thumbnail-hover">
 		  				</a>

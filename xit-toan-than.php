@@ -8,29 +8,29 @@
     			<h3 class="cate-detail-title">XỊT TOÀN THÂN X-MEN FOR BOSS</h3>
 		  		<div class="all-product spray">
 		  			<div class="item luxury">
-		  				<a href="#" class="images">
+		  				<a href="luxury-xit-toan-than.php" class="images">
 		  					<img src="images/cate-detail/xit-khu-mui/xit-khu-mui-luxury.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/xit-khu-mui/xit-khu-mui-luxury-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="luxury-xit-toan-than.php" class="tooltip">
 		  					Xịt toàn thân <br>X-MEN LUXURY
 		  				</a>
 		  			</div>
 		  			<div class="item motion">
-		  				<a href="#" class="images">
+		  				<a href="motion-xit-toan-than.php" class="images">
 		  					<img src="images/cate-detail/xit-khu-mui/xit-khu-mui-motion.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/xit-khu-mui/xit-khu-mui-motion-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="motion-xit-toan-than.php" class="tooltip">
 		  					Xịt toàn thân <br>X-MEN MOTION
 		  				</a>
 		  			</div>
 		  			<div class="item intense">
-		  				<a href="#" class="images">
+		  				<a href="intense-xit-toan-than.php" class="images">
 		  					<img src="images/cate-detail/xit-khu-mui/xit-khu-mui-intense.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/xit-khu-mui/xit-khu-mui-intense-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
-		  				<a href="#" class="tooltip">
+		  				<a href="intense-xit-toan-than.php" class="tooltip">
 		  					Xịt toàn thân <br>X-MEN INTENSE
 		  				</a>
 		  			</div>
