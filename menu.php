@@ -1,5 +1,5 @@
 <ul id="menu-fullpage" class="list-unstyle">
-  <li class="shampoo"><a href="dau-goi-nuoc-hoa.php">Dầu gội đầu nước hoa</a></li>
+  <li class="shampoo"><a href="dau-goi-nuoc-hoa.php">Dầu gội nước hoa</a></li>
   <li class="shower"><a href="sua-tam-nuoc-hoa.php">Sữa tắm nước hoa</a></li>
   <li class="perfume"><a href="nuoc-hoa.php">Nước hoa</a></li>
   <li class="spray"><a href="xit-toan-than.php">Xịt toàn thân</a></li>

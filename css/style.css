@@ -917,6 +917,9 @@ a:focus, a:active {
   margin-top: 160px;
   position: relative;
 }
+.products .left.gel {
+  margin-top: -5px;
+}
 .products .left.shower.shower-180 {
   margin-top: 105px;
 }
@@ -925,6 +928,9 @@ a:focus, a:active {
 }
 .products .left.spray {
   margin-top: 110px;
+}
+.products.luxury .left.spray {
+    margin-top: 153px;
 }
 .products .left.perfume {
   margin-top: 30px;
@@ -986,6 +992,10 @@ a:focus, a:active {
   font-size: 20px;
   line-height: 1.2;
   margin-bottom: 30px;
+}
+.products .right .text ul li {
+  list-style-type: circle;
+  margin-left: 20px;
 }
 .button {
   text-decoration: none;
@@ -1075,7 +1085,7 @@ a:focus, a:active {
 .products .right .button:after {
   content: '';
   position: absolute;
-  top: 10px;
+  top: 14px;
   right: 20px;
   width: 13px;
   height: 13px;
@@ -1131,7 +1141,7 @@ a:focus, a:active {
   margin-top: -110px;
 }
 .products.luxury .left .sign {
-  margin-top: -110px;
+  margin-top: -85px;
 }
 /* End Product */
 .slick-arrow {

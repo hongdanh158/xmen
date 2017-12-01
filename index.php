@@ -30,19 +30,19 @@
 							<div class="clear"></div>
 						</div>
 						<div class="sign intense-sign">
-				  			<p>"Kết hợp gỗ Đàn Hương và Hổ Phách là cách tôi tạo nên nốt hương trầm đầy nội lực của Intense - Mùi hương là sự đại diện cho một phong thái chắc chắn, một dấu ấn đậm nét của người đàn ông thành công, luôn quyết đoán và kiên định với mục tiêu của mình."</p>
+				  			<p>"X-MEN FOR BOSS INTENSE - Kết hợp gỗ Đàn Hương và Hổ Phách là cách tôi tạo nên nốt hương trầm đầy nội lực của Intense - Mùi hương là sự đại diện cho một phong thái chắc chắn, một dấu ấn đậm nét của người đàn ông thành công, luôn quyết đoán và kiên định với mục tiêu của mình."</p>
 				  			<div class="image">
 				  				<img src="images/intense/sign.png" alt="">
 				  			</div>
 						</div>
 						<div class="sign motion-sign">
-				  			<p>"Tôi tạo ra Motion như một loại cocktail phá cách, kết hợp nốt hương trầm đầy nội lực từ gỗ Đàn Hương cùng sự xanh mát của Citrus để phác họa một người đàn ông thành công, chủ động - luôn biết cách tự tạo ra cơ hội cho chính mình."</p>
+				  			<p>"X-MEN FOR BOSS MOTION - Tôi tạo ra Motion như một loại cocktail phá cách, kết hợp nốt hương trầm đầy nội lực từ gỗ Đàn Hương cùng sự xanh mát của Citrus để phác họa một người đàn ông thành công, chủ động - luôn biết cách tự tạo ra cơ hội cho chính mình."</p>
 				  			<div class="image">
 				  				<img src="images/motion/sign.png" alt="">
 				  			</div>
 						</div>
 						<div class="sign luxury-sign">
-				  			<p>"Sự tươi mát lấy cảm hứng từ Bergamot miền Nam nước Ý kết hợp cùng nốt hương trầm đầy sang trọng từ Đàn Hương - Tôi tạo ra hương nước hoa Luxury như một biểu tượng của sự tinh tế, dành riêng cho người đàn ông sang trọng, đẳng cấp, luôn biết tận hưởng hương vị của thành công!"</p>
+				  			<p>"X-MEN FOR BOSS LUXURY - Sự tươi mát lấy cảm hứng từ Bergamot miền Nam nước Ý kết hợp cùng nốt hương trầm đầy sang trọng từ Đàn Hương - Tôi tạo ra hương nước hoa Luxury như một biểu tượng của sự tinh tế, dành riêng cho người đàn ông sang trọng, đẳng cấp, luôn biết tận hưởng hương vị của thành công!"</p>
 				  			<div class="image">
 				  				<img src="images/luxury/sign.png" alt="">
 				  			</div>
@@ -90,15 +90,15 @@
 					<div class="video-wrapper-inner">
 						<div class="video">
 							<!-- video-->
-		                    <video autoplay="true" id="video-default" poster="images/video/thumbnail.jpg" class="video-js vjs-default-skin" controls="controls">
-		                        <source src="https://storage.googleapis.com/xmenmedia/video/index3/doimat_low.mp4" type="video/mp4"/>
+		                    <video autoplay="true" id="video-default" poster="http://x-men.com.vn/static/default/frontend/tmp/xmen_boss/images/boss/poster_video1.jpg" class="video-js vjs-default-skin" controls="controls">
+		                        <source src="https://storage.googleapis.com/xmenmedia/video/XMen_For_Boss_Buoc_Thanh_Bai.mp4" type="video/mp4"/>
 		                    </video>
 		                    <!-- #end video-->
-		                    <h3 class="name">DÁM HÀNH ĐỘNG ĐỂ THÀNH CÔNG</h3>
+		                    <h3 class="name">X-Men For Boss TVC - Bước Thành Bại</h3>
 						</div>
 						<div class="caption">
-							<h3 class="name">X-men for Boss Motion</h3>
-							<h3 class="name">DÁM HÀNH ĐỘNG ĐỂ THÀNH CÔNG</h3>
+							<h3 class="name">X-men for Boss TVC</h3>
+							<h3 class="name">Bước Thành Bại</h3>
 							<div class="text">Đây là dòng sản phẩm mới nhất đại diện cho hình ảnh người đàn ông chủ động, dám đưa ra những quyết định táo bạo để đạt được thành công.</div>
 							<div class="g-button">
 								 <a href="" class="button  hvr-pulse-grow">Sản phẩm</a>
@@ -110,7 +110,7 @@
 		                    <li data-link="https://storage.googleapis.com/xmenmedia/video/XMen_For_Boss_Buoc_Thanh_Bai.mp4" data-poster="http://x-men.com.vn/static/default/frontend/tmp/xmen_boss/images/boss/poster_video1.jpg" class="nv1 active">
 		                        <div class="wp-img"><img src="http://x-men.com.vn/static/default/frontend/tmp/xmen_boss/images/boss/thumb_video1.jpg" alt="x-men" class="img-responsive"/></div>
 		                        <div class="caption-vd">
-		                            <h4>X-Men For Boss TVC - Bước Thành Bại </h4>
+		                            <h4>X-Men For Boss TVC - Bước Thành Bại</h4>
 		                            <h4 class="f-m">X-Men For Boss TVC - Bước Thành Bại </h4>
 		                        </div>
 		                    </li>
@@ -235,7 +235,7 @@
 		    }
 		});
 		var video = videojs("video-default", {
-			"poster": "images/video/thumbnail.jpg",
+			"poster": "http://x-men.com.vn/static/default/frontend/tmp/xmen_boss/images/boss/poster_video1.jpg",
 			"autoplay" : true
 		});
 

@@ -79,4 +79,4 @@
 		setMenuActive(readCookie('menu'));
 	</script>
 </body>
-</html>
+<.php>

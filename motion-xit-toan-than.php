@@ -24,32 +24,32 @@
 			<div class="slider-product-group">
 				<div class="slider">
                     <div class="item">
-                        <a href="motion-dau-goi-nuoc-hoa.html" class="thumbnail"><img src="images/products/thumbnail/motion/sua-tam.png" alt=""></a>
-                        <a href="motion-dau-goi-nuoc-hoa.html" class="text-link">Dầu gội <br> X-Men For Boss Motion <br> 650g</a>
+                        <a href="motion-dau-goi-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/motion/sua-tam.png" alt=""></a>
+                        <a href="motion-dau-goi-nuoc-hoa.php" class="text-link">Dầu gội <br> X-Men For Boss Motion <br> 650g</a>
                     </div>
                     <div class="item">
-                        <a href="motion-dau-goi-nuoc-hoa-180g.html" class="thumbnail"><img src="images/products/thumbnail/motion/dau-goi-180g.png" alt=""></a>
-                        <a href="motion-dau-goi-nuoc-hoa-180g.html" class="text-link">Dầu gội <br> X-Men For Boss Motion <br> 180g</a>
+                        <a href="motion-dau-goi-nuoc-hoa-180g.php" class="thumbnail"><img src="images/products/thumbnail/motion/dau-goi-180g.png" alt=""></a>
+                        <a href="motion-dau-goi-nuoc-hoa-180g.php" class="text-link">Dầu gội <br> X-Men For Boss Motion <br> 180g</a>
                     </div>
                     <div class="item">
-                        <a href="motion-nuoc-hoa.html" class="thumbnail"><img src="images/products/thumbnail/motion/nuoc-hoa.png" alt=""></a>
-                        <a href="motion-nuoc-hoa.html" class="text-link">Nước hoa <br> X-Men For Boss Motion <br> 180g</a>
+                        <a href="motion-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/motion/nuoc-hoa.png" alt=""></a>
+                        <a href="motion-nuoc-hoa.php" class="text-link">Nước hoa <br> X-Men For Boss Motion <br> 180g</a>
                     </div>
                     <div class="item">
-                        <a href="motion-sua-tam-nuoc-hoa.html" class="thumbnail"><img src="images/products/thumbnail/motion/sua-tam.png" alt=""></a>
-                        <a href="motion-sua-tam-nuoc-hoa.html" class="text-link">Sữa tắm <br> X-men For Boss Motion</a>
+                        <a href="motion-sua-tam-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/motion/sua-tam.png" alt=""></a>
+                        <a href="motion-sua-tam-nuoc-hoa.php" class="text-link">Sữa tắm <br> X-men For Boss Motion</a>
                     </div>
                     <div class="item">
-                        <a href="motion-sua-tam-nuoc-hoa-180g.html" class="thumbnail"><img src="images/products/thumbnail/motion/dau-goi-180g.png" alt=""></a>
-                        <a href="motion-sua-tam-nuoc-hoa-180g.html" class="text-link">Sữa tắm <br> X-men For Boss Motion <br> 180g</a>
+                        <a href="motion-sua-tam-nuoc-hoa-180g.php" class="thumbnail"><img src="images/products/thumbnail/motion/dau-goi-180g.png" alt=""></a>
+                        <a href="motion-sua-tam-nuoc-hoa-180g.php" class="text-link">Sữa tắm <br> X-men For Boss Motion <br> 180g</a>
                     </div>
                     <div class="item">
-                        <a href="motion-lan-khu-mui.html" class="thumbnail"><img src="images/products/thumbnail/motion/lan-khu-mui.png" alt=""></a>
-                        <a href="motion-lan-khu-mui.html" class="text-link">Lăn khử mùi <br> X-Men For Boss Motion</a>
+                        <a href="motion-lan-khu-mui.php" class="thumbnail"><img src="images/products/thumbnail/motion/lan-khu-mui.png" alt=""></a>
+                        <a href="motion-lan-khu-mui.php" class="text-link">Lăn khử mùi <br> X-Men For Boss Motion</a>
                     </div>
                      <div class="item">
-                        <a href="motion-san-pham-tao-mau-toc-wax.html" class="thumbnail"><img src="images/products/thumbnail/motion/wax-vuot-toc.png" alt=""></a>
-                        <a href="motion-san-pham-tao-mau-toc-wax.html" class="text-link">Wax tạo kiểu <br> X-Men For Boss Motion</a>
+                        <a href="motion-san-pham-tao-mau-toc-wax.php" class="thumbnail"><img src="images/products/thumbnail/motion/wax-vuot-toc.png" alt=""></a>
+                        <a href="motion-san-pham-tao-mau-toc-wax.php" class="text-link">Wax tạo kiểu <br> X-Men For Boss Motion</a>
                     </div>
                 </div>
 			</div>
@@ -62,4 +62,4 @@
 	</div>
 	<script src="js/script.js"></script>
 </body>
-</html>
+<.php>

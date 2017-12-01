@@ -22,6 +22,12 @@
 		margin-left: 40px;
 		margin-top: 125px;
 	}
+	.products .left.gel {
+	    margin-top: -66px;
+	}
+	.products.luxury .left.perfume {
+		margin-top: -18px;
+	}
 	.products .left.shower.shower-180 {
 	    margin-top: 7px;
 	}
@@ -33,6 +39,12 @@
 	}
 	.products .left.roller {
 		margin-top: -66px;
+	}
+	.products.luxury .left.roller {
+	    margin-top: -44px;
+	}
+	.products.luxury .left.spray {
+	    margin-top: 63px;
 	}
 	.products .left.shampoo {
 		margin-top: 78px;
@@ -161,6 +173,21 @@
 		width: 430px;
 		margin-left: 190px;
     	margin-top: 129px;
+	}
+	.products .left.gel {
+	    margin-top: -31px;
+	}
+	.products.luxury .left.perfume {
+	    margin-top: 0px;
+	}
+	.products.luxury .left.perfume {
+	    margin-top: -48px;
+	}
+	.products.luxury .left.roller {
+	    margin-top: -21px;
+	}
+	.products.luxury .left.spray {
+	    margin-top: 86px;
 	}
 	.products .left.shower.shower-180 {
 	    margin-top: 21px;
@@ -299,7 +326,7 @@
 		width: 63%;
 	}
 	.homepage .slider-1 .conent .products {
-		width: 80%;
+		width: 75%;
 	}
 	.slider-product .all-product {
 	    margin-top: 180px;
@@ -387,14 +414,23 @@
 		margin-left: 140px;
     	margin-top: 50px;
 	}
+	.products .left.gel {
+	    margin-top: -69px;
+	}
 	.products .left.shower.shower-180 {
 	    margin-top: -32px;
 	}
 	.products .left.shampoo.shampoo-180 {
 	    margin-top: -58px;
 	}
+	.products.luxury .left.shampoo.shampoo-180 {
+	    margin-top: -41px;
+	}
 	.products .left.shampoo {
 	    margin-top: 17px;
+	}
+	.products.luxury .left.shampoo {
+	    margin-top: 25px;
 	}
 	.products .left.spray {
 	    margin-top: -23px;
@@ -405,6 +441,12 @@
 	.products .left .sign {
 		font-size: 14px;
 		margin-top: -100px;
+	}
+	.products.luxury .left.roller {
+	    margin-top: -51px;
+	}
+	.products.luxury .left.spray {
+	    margin-top: 42px;
 	}
 	.products .right {
 		width: 525px;
