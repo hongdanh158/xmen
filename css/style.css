@@ -917,11 +917,17 @@ a:focus, a:active {
   margin-top: 160px;
   position: relative;
 }
+.products.intense .left.soap {
+    margin-top: -38px;
+}
 .products .left.gel {
   margin-top: -5px;
 }
 .products .left.shower.shower-180 {
   margin-top: 105px;
+}
+.products.intense .left.shower.shower-180 {
+    margin-top: 53px;
 }
 .products .left.shampoo-180 {
   margin-top: 45px;
@@ -1564,6 +1570,19 @@ a:focus, a:active {
   line-height: 1.2;
   width: 82%;
   margin: 0 auto;
+  margin-top: -40px;
+}
+.homepage .slider-1 .sign h4 {
+    text-align: center;
+}
+.homepage .slider-1 .sign.intense-sign h4 {
+  color: #ff2400;
+}
+.homepage .slider-1 .sign.motion-sign h4 {
+  color: #19bf52;
+}
+.homepage .slider-1 .sign.luxury-sign h4 {
+  color: #ffc500;
 }
 .homepage .slider-1 .sign p {
   text-align: center;

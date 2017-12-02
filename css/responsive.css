@@ -22,6 +22,9 @@
 		margin-left: 40px;
 		margin-top: 125px;
 	}
+	.products.intense .left.soap {
+	    margin-top: -70px;
+	}
 	.products .left.gel {
 	    margin-top: -66px;
 	}
@@ -328,6 +331,9 @@
 	.homepage .slider-1 .conent .products {
 		width: 75%;
 	}
+	.homepage .slider-1 .sign {
+		width: 81%;
+	}
 	.slider-product .all-product {
 	    margin-top: 180px;
     	margin-left: 140px;
@@ -414,11 +420,20 @@
 		margin-left: 140px;
     	margin-top: 50px;
 	}
+	.products.intense .left.perfume {
+	    margin-top: -50px;
+	}
+	.products.intense .left.soap {
+	    margin-top: -101px;
+	}
 	.products .left.gel {
 	    margin-top: -69px;
 	}
 	.products .left.shower.shower-180 {
 	    margin-top: -32px;
+	}
+	.products.intense .left.shower.shower-180 {
+	    margin-top: -44px;
 	}
 	.products .left.shampoo.shampoo-180 {
 	    margin-top: -58px;
@@ -428,6 +443,12 @@
 	}
 	.products .left.shampoo {
 	    margin-top: 17px;
+	}
+	.products.intense .left.shampoo {
+		margin-top: 30px;
+	}
+	.products.intense .left.shampoo.shampoo-180 {
+	    margin-top: -37px;
 	}
 	.products.luxury .left.shampoo {
 	    margin-top: 25px;

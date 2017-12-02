@@ -10,19 +10,19 @@
 						<h2 class="title">Phong cách Xứng tầm</h3>
 						<div class="products">
 							<div class="item" sign-class=".intense-sign">
-								<a href="#" class="images">
+								<a href="intense-xit-toan-than.php" class="images">
 				  					<img src="images/cate-detail/xit-khu-mui/xit-khu-mui-intense.png" alt="" class="thumbnail">
 				  					<img src="images/cate-detail/xit-khu-mui/xit-khu-mui-intense-hover.png" alt="" class="thumbnail-hover">
 				  				</a>
 							</div>
 							<div class="item" sign-class=".motion-sign">
-								<a href="#" class="images">
+								<a href="motion-xit-toan-than.php" class="images">
 				  					<img src="images/cate-detail/xit-khu-mui/xit-khu-mui-motion.png" alt="" class="thumbnail">
 				  					<img src="images/cate-detail/xit-khu-mui/xit-khu-mui-motion-hover.png" alt="" class="thumbnail-hover">
 				  				</a>
 							</div>
 							<div class="item"  sign-class=".luxury-sign">
-								<a href="#" class="images">
+								<a href="luxury-xit-toan-than.php" class="images">
 				  					<img src="images/cate-detail/xit-khu-mui/xit-khu-mui-luxury.png" alt="" class="thumbnail">
 				  					<img src="images/cate-detail/xit-khu-mui/xit-khu-mui-luxury-hover.png" alt="" class="thumbnail-hover">
 				  				</a>
@@ -30,19 +30,22 @@
 							<div class="clear"></div>
 						</div>
 						<div class="sign intense-sign">
-				  			<p>"X-MEN FOR BOSS INTENSE - Kết hợp gỗ Đàn Hương và Hổ Phách là cách tôi tạo nên nốt hương trầm đầy nội lực của Intense - Mùi hương là sự đại diện cho một phong thái chắc chắn, một dấu ấn đậm nét của người đàn ông thành công, luôn quyết đoán và kiên định với mục tiêu của mình."</p>
+							<h4>X-MEN FOR BOSS INTENSE</h4>
+				  			<p>"Kết hợp gỗ Đàn Hương và Hổ Phách là cách tôi tạo nên nốt hương trầm đầy nội lực của Intense - Mùi hương là sự đại diện cho một phong thái chắc chắn, một dấu ấn đậm nét của người đàn ông thành công, luôn quyết đoán và kiên định với mục tiêu của mình."</p>
 				  			<div class="image">
 				  				<img src="images/intense/sign.png" alt="">
 				  			</div>
 						</div>
 						<div class="sign motion-sign">
-				  			<p>"X-MEN FOR BOSS MOTION - Tôi tạo ra Motion như một loại cocktail phá cách, kết hợp nốt hương trầm đầy nội lực từ gỗ Đàn Hương cùng sự xanh mát của Citrus để phác họa một người đàn ông thành công, chủ động - luôn biết cách tự tạo ra cơ hội cho chính mình."</p>
+							<h4>X-MEN FOR BOSS MOTION</h4>
+				  			<p>"Tôi tạo ra Motion như một loại cocktail phá cách, kết hợp nốt hương trầm đầy nội lực từ gỗ Đàn Hương cùng sự xanh mát của Citrus để phác họa một người đàn ông thành công, chủ động - luôn biết cách tự tạo ra cơ hội cho chính mình."</p>
 				  			<div class="image">
 				  				<img src="images/motion/sign.png" alt="">
 				  			</div>
 						</div>
 						<div class="sign luxury-sign">
-				  			<p>"X-MEN FOR BOSS LUXURY - Sự tươi mát lấy cảm hứng từ Bergamot miền Nam nước Ý kết hợp cùng nốt hương trầm đầy sang trọng từ Đàn Hương - Tôi tạo ra hương nước hoa Luxury như một biểu tượng của sự tinh tế, dành riêng cho người đàn ông sang trọng, đẳng cấp, luôn biết tận hưởng hương vị của thành công!"</p>
+							<h4>X-MEN FOR BOSS LUXURY</h4>
+				  			<p>"Sự tươi mát lấy cảm hứng từ Bergamot miền Nam nước Ý kết hợp cùng nốt hương trầm đầy sang trọng từ Đàn Hương - Tôi tạo ra hương nước hoa Luxury như một biểu tượng của sự tinh tế, dành riêng cho người đàn ông sang trọng, đẳng cấp, luôn biết tận hưởng hương vị của thành công!"</p>
 				  			<div class="image">
 				  				<img src="images/luxury/sign.png" alt="">
 				  			</div>
@@ -58,22 +61,22 @@
 							<a href="#" class="button hvr-pulse-grow">Mua ngay</a>
 						</div>
 						<div class="all-product">
+							<div class="item intense">
+				  				<a href="intense-nuoc-hoa.php" class="images">
+				  					<img src="images/cate-detail/nuoc-hoa/intense.png" alt="" class="thumbnail">
+				  					<img src="images/cate-detail/nuoc-hoa/intense-hover.png" alt="" class="thumbnail-hover">
+				  				</a>
+				  			</div>
 				  			<div class="item motion">
-				  				<a href="#" class="images">
+				  				<a href="motion-nuoc-hoa.php" class="images">
 				  					<img src="images/cate-detail/nuoc-hoa/motion.png" alt="" class="thumbnail">
 				  					<img src="images/cate-detail/nuoc-hoa/motion-hover.png" alt="" class="thumbnail-hover">
 				  				</a>
 				  			</div>
 				  			<div class="item luxury">
-				  				<a href="#" class="images">
+				  				<a href="luxury-nuoc-hoa.php" class="images">
 				  					<img src="images/cate-detail/nuoc-hoa/luxury.png" alt="" class="thumbnail">
 				  					<img src="images/cate-detail/nuoc-hoa/luxury-hover.png" alt="" class="thumbnail-hover">
-				  				</a>
-				  			</div>
-				  			<div class="item intense">
-				  				<a href="#" class="images">
-				  					<img src="images/cate-detail/nuoc-hoa/intense.png" alt="" class="thumbnail">
-				  					<img src="images/cate-detail/nuoc-hoa/intense-hover.png" alt="" class="thumbnail-hover">
 				  				</a>
 				  			</div>
 				  		</div>

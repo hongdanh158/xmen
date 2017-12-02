@@ -1,11 +1,11 @@
 ﻿<?php include('header.php') ?>
 	<div class="products intense" canvas="container">
-		<div class="left shower shower-180">
+		<div class="left gel">
 			<div class="image">
 				<video id="video-product" class="video-product" loop>
-          			<source src="images/products/intense/sua-tam-180g.mp4" type="video/mp4">
+          			<source src="images/products/intense/gel-vuot-toc.mp4" type="video/mp4">
         		</video>
-				<img src="images/products/intense/sua-tam-180g.jpg" alt="">
+				<img src="images/products/intense/gel-vuot-toc.jpg" alt="">
 			</div>
 			<div class="sign">
 				<p>"Được điều chế từ nhà điều hương Jacques Flori."</p>
@@ -13,10 +13,10 @@
 			</div>
 		</div>
 		<div class="right">
-			<h3 class="name">SỮA TẮM <br> X-MEN FOR BOSS INTENSE</h3>
+			<h3 class="name">Gel vuốt Tóc <br> X-MEN FOR BOSS INTENSE</h3>
 			<div class="text">
-				<p>Công thức chuyên biệt dành cho nam giới giúp gội sạch dầu nhờn và bụi bẩn trên da đầu.</p>
-				<p>Kết hợp thành phần cao cấp gỗ Đàn Hường và Hổ Phách tạo nên hương nước hoa trầm đầy nội lực dành cho người đàn ông thành công, luôn quyết đoán, kiên định.</p>
+				<p>Với công thức Strong Hold, gel tạo nếp tóc X-Men For Boss giúp giữ nếp lâu và không gây nhờn. </p>
+				<p>Đặc biệt với hương nước hoa độc đáo và quý phái sẽ tạo cho bạn vẻ lịch lãm, sang trọng của người đàn ông thành đạt và khẳng định một cá tính, một phong cách xứng tầm.</p>
 			</div>
 			<div class="buy center-align">
 				<a href="#" class="button">Mua ngay</a>
@@ -24,20 +24,28 @@
 			<div class="slider-product-group">
 				<div class="slider">
 					<div class="item">
-						<a href="intense-sua-tam-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/intense/sua-tam-650g.png" alt=""></a>
-						<a href="intense-sua-tam-nuoc-hoa.php" class="text-link">Sữa tắm <br>  X-Men For Boss Intense<br> 650g</a>
-					</div>
-					<div class="item">
-						<a href="intense-xa-bong-cuc.php" class="thumbnail"><img src="images/products/thumbnail/intense/xa-bong-cuc.png" alt=""></a>
-						<a href="intense-xa-bong-cuc.php" class="text-link">Xà bông cục <br> X- X-Men For Boss Intense</a>
+						<a href="intense-san-pham-tao-mau-toc-wax.php" class="thumbnail"><img src="images/products/thumbnail/intense/wax-vuot-toc.png" alt=""></a>
+						<a href="intense-san-pham-tao-mau-toc-wax.php" class="text-link">Wax tạo kiểu <br> X-Men For Boss Intense</a>
 					</div>
 					<div class="item">
 						<a href="intense-dau-goi-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/intense/dau-goi-650g.png" alt=""></a>
-						<a href="intense-dau-goi-nuoc-hoa.php" class="text-link">Dầu gội <br>  X-Men For Boss Intense<br> 650g</a>
+						<a href="intense-dau-goi-nuoc-hoa.php" class="text-link">Dầu gội <br>  X-Men For Boss Intense</a>
 					</div>
 					<div class="item">
 						<a href="intense-dau-goi-nuoc-hoa-180g.php" class="thumbnail"><img src="images/products/thumbnail/intense/dau-goi-180g.png" alt=""></a>
 						<a href="intense-dau-goi-nuoc-hoa-180g.php" class="text-link">Dầu gội <br>  X-Men For Boss Intense <br> 180g</a>
+					</div>
+					<div class="item">
+						<a href="intense-sua-tam-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/intense/sua-tam-650g.png" alt=""></a>
+						<a href="intense-sua-tam-nuoc-hoa.php" class="text-link">Sữa tắm <br>  X-Men For Boss Intense</a>
+					</div>
+					<div class="item">
+						<a href="intense-sua-tam-nuoc-hoa-180g.php" class="thumbnail"><img src="images/products/thumbnail/intense/sua-tam-180g.png" alt=""></a>
+						<a href="intense-sua-tam-nuoc-hoa-180g.php" class="text-link">Sữa tắm <br>  X-Men For Boss Intense <br> 180g</a>
+					</div>
+					<div class="item">
+						<a href="intense-xa-bong-cuc.php" class="thumbnail"><img src="images/products/thumbnail/intense/xa-bong-cuc.png" alt=""></a>
+						<a href="intense-xa-bong-cuc.php" class="text-link">Xà bông cục <br> X- X-Men For Boss Intense</a>
 					</div>
 					<div class="item">
 						<a href="intense-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/intense/nuoc-hoa.png" alt=""></a>
@@ -55,14 +63,7 @@
 						<a href="intense-xit-toan-than.php" class="thumbnail"><img src="images/products/thumbnail/intense/xit-khu-mui.png" alt=""></a>
 						<a href="intense-xit-toan-than.php" class="text-link">Xịt toàn thân <br> X-Men For Boss Intense</a>
 					</div>
-					<div class="item">
-						<a href="intense-san-pham-tao-mau-toc-wax.php" class="thumbnail"><img src="images/products/thumbnail/intense/wax-vuot-toc.png" alt=""></a>
-						<a href="intense-san-pham-tao-mau-toc-wax.php" class="text-link">Wax tạo kiểu <br> X-Men For Boss Intense</a>
-					</div>
-					<div class="item">
-						<a href="intense-gel-tao-kieu.php" class="thumbnail"><img src="images/products/thumbnail/intense/gel-vuot-toc.png" alt=""></a>
-						<a href="intense-gel-tao-kieu.php" class="text-link">Gel vuốt tóc <br> X-Men For Boss Intense</a>
-					</div>
+					
 				</div>
 			</div>
 		</div>
