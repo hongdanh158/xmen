@@ -564,6 +564,9 @@
 	.products .left.shampoo {
 	    margin-top: 27px;
 	}
+	.cate-detail .slider-product .all-product.gel .item .tooltip {
+	  top: -41px;
+	}
 }
 @media only screen and (max-width: 1024px) {
 	.navbar, #menu-fullpage {
