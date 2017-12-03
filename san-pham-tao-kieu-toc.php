@@ -45,7 +45,7 @@
 		  					<img src="images/cate-detail/gel/intense-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
 		  				<a href="#" class="tooltip">
-		  					Gel Vuốt Tóc <br> X-Men For Boss Strong Hold Wet Look
+		  					Gel Vuốt Tóc <br> Strong Hold Wet Look
 		  				</a>
 		  			</div>
 		  			<div class="item luxury">
@@ -54,7 +54,7 @@
 		  					<img src="images/cate-detail/gel/luxury-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
 		  				<a href="#" class="tooltip">
-		  					Gel Vuốt Tóc <br> X-Men For Boss Super Strong Hold Natural Look
+		  					Gel Vuốt Tóc <br> Super Strong Hold Natural Look
 		  				</a>
 		  			</div>
 		  		</div>

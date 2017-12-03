@@ -564,9 +564,10 @@ a:focus, a:active {
   display: none;
   width: 53px;
   height: 53px;
-  position: absolute;
   top: 20px;
   right: 20px;
+  position: fixed;
+  z-index: 999999;
 }
 .js-menu-mobile {
     background-color: transparent;
