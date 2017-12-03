@@ -174,8 +174,12 @@
 		$(document).ready(function() {
 			$('#fullpage').fullpage({
 				menu: '#menu',
-				scrollingSpeed: 1000,
 				css3: true,
+				scrollingSpeed: 1000,
+				scrollOverflow:true
+				autoScrolling: true,
+				fitToSection: true,
+				fitToSectionDelay: 100,
 			});
 			$('.homepage .slider-1 .products .item').hover(function() {
 				/* Stuff to do when the mouse enters the element */
