@@ -16,7 +16,7 @@
 			<h3 class="name">Dầu gội <br> X-MEN FOR BOSS INTENSE</h3>
 			<div class="text">
 				<p>Công thức chuyên biệt dành cho nam giới giúp gội sạch dầu nhờn và bụi bẩn trên da đầu.</p>
-				<p>Kết hợp thành phần cao cấp gỗ Đàn Hường và Hổ Phách tạo nên hương nước hoa trầm đầy nội lực dành cho người đàn ông thành công, luôn quyết đoán, kiên định.</p>
+				<p>Kết hợp thành phần cao cấp gỗ Đàn Hương và Hổ Phách tạo nên hương nước hoa trầm đầy nội lực dành cho người đàn ông thành công, luôn quyết đoán, kiên định.</p>
 			</div>
 			<div class="buy center-align">
 				<a href="#" class="button">Mua ngay</a>
@@ -37,12 +37,12 @@
 					</div>
 					<div class="item">
 						<a href="intense-xa-bong-cuc.php" class="thumbnail"><img src="images/products/thumbnail/intense/xa-bong-cuc.png" alt=""></a>
-						<a href="intense-xa-bong-cuc.php" class="text-link">Xà bông cục <br> X- X-Men For Boss Intense</a>
+						<a href="intense-xa-bong-cuc.php" class="text-link">Xà bông cục <br> X-Men For Boss Intense</a>
 					</div>
 					
 					<div class="item">
 						<a href="intense-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/intense/nuoc-hoa.png" alt=""></a>
-						<a href="intense-nuoc-hoa.php" class="text-link">Nước hoa <br> X- X-Men For Boss Intense</a>
+						<a href="intense-nuoc-hoa.php" class="text-link">Nước hoa <br> X-Men For Boss Intense</a>
 					</div>
 					<div class="item">
 						<a href="intense-lan-khu-mui.php" class="thumbnail"><img src="images/products/thumbnail/intense/lan-khu-mui.png" alt=""></a>

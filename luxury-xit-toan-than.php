@@ -16,7 +16,7 @@
 			<h3 class="name">Xịt toàn thân<br> X-MEN FOR BOSS Luxury</h3>
 			<div class="text">
 				<p>Công thức chuyên biệt dành cho nam giới chứa hoạt chất khử mùi, mang lại hiệu quả giúp cơ thể bạn khô thoáng và dễ chịu suốt cả ngày.</p>
-				<p>Kết hợp thành phân cao cấp Bergamot và gỗ Đàn Hường tạo nên hương nước hoa sang trọng tinh tế dành cho người đàn ông đẳng cấp, luôn biết tận hưởng hương vị của thành công.</p>
+				<p>Kết hợp thành phần cao cấp Bergamot và gỗ Đàn Hương tạo nên hương nước hoa sang trọng tinh tế dành cho người đàn ông đẳng cấp, luôn biết tận hưởng hương vị của thành công.</p>
 			</div>
 			<div class="buy center-align">
 				<a href="#" class="button">Mua ngay</a>

@@ -54,7 +54,7 @@
 		  					<img src="images/motion/wax-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
 		  				<a href="san-pham-tao-kieu-toc.php" class="tooltip">
-		  					Sản phẩm tạo kiểu <br> X-MEN MOTION</a>
+		  					Wax Vuốt Tóc <br> X-Men For Boss Spiky
 		  			</div>
 		  		</div>
 		  		<h3 class="title">X-MEN FOR BOSS MOTION</h3>
@@ -121,7 +121,7 @@
 		  					<img src="images/luxury/wax-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
 		  				<a href="san-pham-tao-kieu-toc.php" class="tooltip">
-		  					Sản phẩm tạo kiểu <br> X-MEN LUXURY</a>
+		  					Wax Vuốt Tóc <br> X-Men For Boss Freestyle
 		  			</div>
 		  		</div>
 		  		<h3 class="title">X-MEN FOR BOSS LUXURY</h3>
@@ -188,7 +188,7 @@
 		  					<img src="images/intense/wax-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
 		  				<a href="san-pham-tao-kieu-toc.php" class="tooltip">
-		  					Sản phẩm tạo kiểu <br> X-MEN INTENSE</a>
+		  					Wax Vuốt Tóc <br> X-Men For Boss Clean Cut
 		  			</div>
 		  		</div>
 		  		<h3 class="title">X-MEN FOR BOSS INTENSE</h3>

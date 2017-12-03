@@ -390,7 +390,9 @@ a:focus, a:active {
 }
 .slider-product .all-product .item.wax .tooltip {
   top: -30px;
-  left: 70px;
+  left: 0;
+  width: 100%;
+  margin: 0 auto;
 }
 
 .slider-product .all-product .item {

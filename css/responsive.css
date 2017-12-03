@@ -168,10 +168,14 @@
 	    top: 312px;
 	    left: 166px;
 	}
+	.slider-product .all-product .item.wax .tooltip {
+	  top: -40px;
+	  width: 75%;
+	  margin: 0 auto;
+	}
 	.slider-product .all-product .item.wax .images {
 	    width: 235px;
 	}
-
 	.products .left {
 		width: 430px;
 		margin-left: 190px;

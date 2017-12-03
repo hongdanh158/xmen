@@ -41,11 +41,11 @@
 					</div>
 					<div class="item">
 						<a href="intense-xa-bong-cuc.php" class="thumbnail"><img src="images/products/thumbnail/intense/xa-bong-cuc.png" alt=""></a>
-						<a href="intense-xa-bong-cuc.php" class="text-link">Xà bông cục <br> X- X-Men For Boss Intense</a>
+						<a href="intense-xa-bong-cuc.php" class="text-link">Xà bông cục <br> X-Men For Boss Intense</a>
 					</div>
 					<div class="item">
 						<a href="intense-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/intense/nuoc-hoa.png" alt=""></a>
-						<a href="intense-nuoc-hoa.php" class="text-link">Nước hoa <br> X- X-Men For Boss Intense</a>
+						<a href="intense-nuoc-hoa.php" class="text-link">Nước hoa <br> X-Men For Boss Intense</a>
 					</div>
 					<div class="item">
 						<a href="intense-lan-khu-mui.php" class="thumbnail"><img src="images/products/thumbnail/intense/lan-khu-mui.png" alt=""></a>

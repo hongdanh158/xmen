@@ -16,7 +16,7 @@
 			<h3 class="name">Dầu gội <br> X-MEN FOR BOSS LUXURY</h3>
 			<div class="text">
 				<p>Công thức chuyên biệt cho nam giới giúp gội sạch dầu nhờn và bụi bẩn trên da đầu. </p>
-				<p>Kết hợp thành phân cao cấp Bergamot và gỗ Đàn Hường tạo nên hương nước hoa sang trọng tinh tế dành cho người đàn ông đẳng cấp, luôn biết tận hưởng hương vị của thành công.</p>
+				<p>Kết hợp thành phần cao cấp Bergamot và gỗ Đàn Hương tạo nên hương nước hoa sang trọng tinh tế dành cho người đàn ông đẳng cấp, luôn biết tận hưởng hương vị của thành công.</p>
 			</div>
 			<div class="buy center-align">
 				<a href="#" class="button">Mua ngay</a>
