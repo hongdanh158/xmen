@@ -42,7 +42,7 @@
 					
 					<div class="item">
 						<a href="intense-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/intense/nuoc-hoa.png" alt=""></a>
-						<a href="intense-nuoc-hoa.php" class="text-link">Nước hoa <br> X- X-Men For Boss Intense <br> 180g</a>
+						<a href="intense-nuoc-hoa.php" class="text-link">Nước hoa <br> X- X-Men For Boss Intense</a>
 					</div>
 					<div class="item">
 						<a href="intense-lan-khu-mui.php" class="thumbnail"><img src="images/products/thumbnail/intense/lan-khu-mui.png" alt=""></a>
@@ -58,11 +58,11 @@
 					</div>
 					<div class="item">
 						<a href="intense-san-pham-tao-mau-toc-wax.php" class="thumbnail"><img src="images/products/thumbnail/intense/wax-vuot-toc.png" alt=""></a>
-						<a href="intense-san-pham-tao-mau-toc-wax.php" class="text-link">Wax tạo kiểu <br> X-Men For Boss Intense</a>
+						<a href="intense-san-pham-tao-mau-toc-wax.php" class="text-link">Wax Vuốt Tóc <br> X-Men For Boss Clean Cut</a>
 					</div>
 					<div class="item">
 						<a href="intense-gel-tao-kieu.php" class="thumbnail"><img src="images/products/thumbnail/intense/gel-vuot-toc.png" alt=""></a>
-						<a href="intense-gel-tao-kieu.php" class="text-link">Gel vuốt tóc <br> X-Men For Boss Intense</a>
+						<a href="intense-gel-tao-kieu.php" class="text-link">Wax Vuốt Tóc <br> X-Men For Boss Clean Cut</a>
 					</div>
 				</div>
 			</div>

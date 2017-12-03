@@ -37,7 +37,7 @@
 					</div>
 					<div class="item">
 						<a href="luxury-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/luxury/nuoc-hoa.png" alt=""></a>
-						<a href="luxury-nuoc-hoa.php" class="text-link">Nước hoa <br> X- X-Men For Boss luxury <br> 180g</a>
+						<a href="luxury-nuoc-hoa.php" class="text-link">X-Men For Boss Luxury</a>
 					</div>
 					<div class="item">
 						<a href="luxury-lan-khu-mui.php" class="thumbnail"><img src="images/products/thumbnail/luxury/lan-khu-mui.png" alt=""></a>
@@ -49,11 +49,11 @@
 					</div>
 					<div class="item">
 						<a href="luxury-san-pham-tao-mau-toc-wax.php" class="thumbnail"><img src="images/products/thumbnail/luxury/wax-vuot-toc.png" alt=""></a>
-						<a href="luxury-san-pham-tao-mau-toc-wax.php" class="text-link">Wax tạo kiểu <br> X-Men For Boss Luxury</a>
+						<a href="luxury-san-pham-tao-mau-toc-wax.php" class="text-link">Wax Vuốt Tóc <br> X-Men For Boss Freestyle</a>
 					</div>
 					<div class="item">
 						<a href="luxury-gel-tao-kieu.php" class="thumbnail"><img src="images/products/thumbnail/luxury/gel-vuot-toc-150g.png" alt=""></a>
-						<a href="luxury-gel-tao-kieu.php" class="text-link">Gel tạo kiểu <br> X-Men For Boss luxury <br> 150g</a>
+						<a href="luxury-gel-tao-kieu.php" class="text-link">Gel Vuốt Tóc <br> X-Men For Boss Super Strong Hold Natural Look</a>
 					</div>
 				</div>
 			</div>

@@ -43,12 +43,12 @@
                         <a href="motion-lan-khu-mui.php" class="text-link">Lăn khử mùi <br> X-Men For Boss Motion</a>
                     </div>
                     <div class="item">
-                        <a href="motion-xit-khu-mui.php" class="thumbnail"><img src="images/products/thumbnail/motion/xit-khu-mui.png" alt=""></a>
-                        <a href="motion-xit-khu-mui.php" class="text-link">Xịt toàn thân <br> X-Men For Boss Motion</a>
+                        <a href="motion-xit-toan-than.php" class="thumbnail"><img src="images/products/thumbnail/motion/xit-khu-mui.png" alt=""></a>
+                        <a href="motion-xit-toan-than.php" class="text-link">Xịt toàn thân <br> X-Men For Boss Motion</a>
                     </div>
                      <div class="item">
                         <a href="motion-san-pham-tao-mau-toc-wax.php" class="thumbnail"><img src="images/products/thumbnail/motion/wax-vuot-toc.png" alt=""></a>
-                        <a href="motion-san-pham-tao-mau-toc-wax.php" class="text-link">Wax tạo kiểu <br> X-Men For Boss Motion</a>
+                        <a href="motion-san-pham-tao-mau-toc-wax.php" class="text-link">Wax Vuốt Tóc <br> X-Men For Boss Spiky</a>
                     </div>
                 </div>
 			</div>

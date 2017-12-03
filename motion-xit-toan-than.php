@@ -33,7 +33,7 @@
                     </div>
                     <div class="item">
                         <a href="motion-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/motion/nuoc-hoa.png" alt=""></a>
-                        <a href="motion-nuoc-hoa.php" class="text-link">Nước hoa <br> X-Men For Boss Motion <br> 180g</a>
+                        <a href="motion-nuoc-hoa.php" class="text-link">Nước hoa <br> X-Men For Boss Motion</a>
                     </div>
                     <div class="item">
                         <a href="motion-sua-tam-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/motion/sua-tam.png" alt=""></a>
@@ -49,7 +49,7 @@
                     </div>
                      <div class="item">
                         <a href="motion-san-pham-tao-mau-toc-wax.php" class="thumbnail"><img src="images/products/thumbnail/motion/wax-vuot-toc.png" alt=""></a>
-                        <a href="motion-san-pham-tao-mau-toc-wax.php" class="text-link">Wax tạo kiểu <br> X-Men For Boss Motion</a>
+                        <a href="motion-san-pham-tao-mau-toc-wax.php" class="text-link">Wax Vuốt Tóc <br> X-Men For Boss Spiky</a>
                     </div>
                 </div>
 			</div>

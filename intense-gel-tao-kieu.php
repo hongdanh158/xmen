@@ -13,7 +13,7 @@
 			</div>
 		</div>
 		<div class="right">
-			<h3 class="name">Gel vuốt Tóc <br> X-MEN FOR BOSS INTENSE</h3>
+			<h3 class="name">Gel Vuốt Tóc <br> X-Men For Boss Strong Hold Wet Look</h3>
 			<div class="text">
 				<p>Với công thức Strong Hold, gel tạo nếp tóc X-Men For Boss giúp giữ nếp lâu và không gây nhờn. </p>
 				<p>Đặc biệt với hương nước hoa độc đáo và quý phái sẽ tạo cho bạn vẻ lịch lãm, sang trọng của người đàn ông thành đạt và khẳng định một cá tính, một phong cách xứng tầm.</p>
@@ -25,7 +25,7 @@
 				<div class="slider">
 					<div class="item">
 						<a href="intense-san-pham-tao-mau-toc-wax.php" class="thumbnail"><img src="images/products/thumbnail/intense/wax-vuot-toc.png" alt=""></a>
-						<a href="intense-san-pham-tao-mau-toc-wax.php" class="text-link">Wax tạo kiểu <br> X-Men For Boss Intense</a>
+						<a href="intense-san-pham-tao-mau-toc-wax.php" class="text-link">Wax Vuốt Tóc <br> X-Men For Boss Clean Cut</a>
 					</div>
 					<div class="item">
 						<a href="intense-dau-goi-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/intense/dau-goi-650g.png" alt=""></a>
@@ -49,7 +49,7 @@
 					</div>
 					<div class="item">
 						<a href="intense-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/intense/nuoc-hoa.png" alt=""></a>
-						<a href="intense-nuoc-hoa.php" class="text-link">Nước hoa <br> X- X-Men For Boss Intense <br> 180g</a>
+						<a href="intense-nuoc-hoa.php" class="text-link">Nước hoa <br> X- X-Men For Boss Intense</a>
 					</div>
 					<div class="item">
 						<a href="intense-lan-khu-mui.php" class="thumbnail"><img src="images/products/thumbnail/intense/lan-khu-mui.png" alt=""></a>

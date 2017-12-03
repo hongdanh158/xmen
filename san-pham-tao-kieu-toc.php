@@ -13,7 +13,7 @@
 		  					<img src="images/cate-detail/wax/motion-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
 		  				<a href="motion-san-pham-tao-mau-toc-wax.php" class="tooltip">
-		  					Wax tạo kiểu tóc <br>X-MEN MOTION
+		  					Wax Vuốt Tóc <br> X-Men For Boss Spiky
 		  				</a>
 		  			</div>
 		  			<div class="item luxury">
@@ -22,7 +22,7 @@
 		  					<img src="images/cate-detail/wax/luxury-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
 		  				<a href="luxury-san-pham-tao-mau-toc-wax.php" class="tooltip">
-		  					Wax tạo kiểu tóc <br>X-MEN LUXURY
+		  					Wax Vuốt Tóc <br> X-Men For Boss Freestyle
 		  				</a>
 		  			</div>
 		  			<div class="item intense">
@@ -31,7 +31,7 @@
 		  					<img src="images/cate-detail/wax/intense-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
 		  				<a href="intense-san-pham-tao-mau-toc-wax.php" class="tooltip">
-		  					Wax tạo kiểu tóc <br>X-MEN INTENSE
+		  					Wax Vuốt Tóc <br> X-Men For Boss Clean Cut
 		  				</a>
 		  			</div>
 		  		</div>
@@ -40,21 +40,21 @@
     			<h3 class="cate-detail-title">Tạo kiểu tóc X-MEN FOR BOSS</h3>
 		  		<div class="all-product gel">
 		  			<div class="item intense">
-		  				<a href="intense-san-pham-tao-mau-toc-gel.php" class="images">
+		  				<a href="intense-gel-tao-kieu.php" class="images">
 		  					<img src="images/cate-detail/gel/intense.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/gel/intense-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
 		  				<a href="#" class="tooltip">
-		  					Gel Vuốt Tóc <br>X-MEN INTENSE
+		  					Gel Vuốt Tóc <br> X-Men For Boss Strong Hold Wet Look
 		  				</a>
 		  			</div>
 		  			<div class="item luxury">
-		  				<a href="luxury-san-pham-tao-mau-toc-gel.php" class="images">
+		  				<a href="luxury-gel-tao-kieu.php" class="images">
 		  					<img src="images/cate-detail/gel/luxury.png" alt="" class="thumbnail">
 		  					<img src="images/cate-detail/gel/luxury-hover.png" alt="" class="thumbnail-hover">
 		  				</a>
 		  				<a href="#" class="tooltip">
-		  					Gel Vuốt Tóc <br>X-MEN LUXURY
+		  					Gel Vuốt Tóc <br> X-Men For Boss Super Strong Hold Natural Look
 		  				</a>
 		  			</div>
 		  		</div>

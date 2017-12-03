@@ -9,7 +9,7 @@
 			</div>
 		</div>
 		<div class="right">
-			<h3 class="name">WAX VUỐT TÓC <br> X-MEN FOR BOSS MOTION</h3>
+			<h3 class="name">Wax Vuốt Tóc <br> X-Men For Boss Spiky</h3>
 			<div class="text">
 				<p>Xmen For Boss Spiky - Giữ nếp cứng, không bết dính.</p>
 				<p>Sáp vuốt tóc Xmen for Boss Spiky là sản phẩm chuyên biệt cho kiểu Vuốt Dựng Cá Tính nhờ khả năng giữ nếp cứng nhưng vẫn tự nhiên, không bết dính.</p>
@@ -29,7 +29,7 @@
                     </div>
 					<div class="item">
 						<a href="motion-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/motion/nuoc-hoa.png" alt=""></a>
-						<a href="motion-nuoc-hoa.php" class="text-link">Nước hoa <br> X-Men For Boss Motion <br> 180g</a>
+						<a href="motion-nuoc-hoa.php" class="text-link">Nước hoa <br> X-Men For Boss Motion</a>
 					</div>
 					<div class="item">
 						<a href="motion-sua-tam-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/motion/sua-tam.png" alt=""></a>
@@ -44,8 +44,8 @@
 						<a href="motion-lan-khu-mui.php" class="text-link">Lăn khử mùi <br> X-Men For Boss Motion</a>
 					</div>
 					<div class="item">
-						<a href="motion-xit-khu-mui.php" class="thumbnail"><img src="images/products/thumbnail/motion/xit-khu-mui.png" alt=""></a>
-						<a href="motion-xit-khu-mui.php" class="text-link">Xịt toàn thân <br> X-Men For Boss Motion</a>
+						<a href="motion-xit-toan-than.php" class="thumbnail"><img src="images/products/thumbnail/motion/xit-khu-mui.png" alt=""></a>
+						<a href="motion-xit-toan-than.php" class="text-link">Xịt toàn thân <br> X-Men For Boss Motion</a>
 					</div>
 				</div>
 			</div>

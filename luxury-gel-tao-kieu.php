@@ -13,7 +13,7 @@
 			</div>
 		</div>
 		<div class="right">
-			<h3 class="name">Gel vuốt Tóc <br> X-MEN FOR BOSS INTENSE</h3>
+			<h3 class="name">Gel Vuốt Tóc <br> X-Men For Boss Super Strong Hold Natural Look</h3>
 			<div class="text">
 				<p>Giúp dễ dàng tạo kiểu tóc và giữ nếp hoàn hảo suốt cả ngày với công thức Super Strong Hold.</p>
 				<ul>
@@ -28,37 +28,37 @@
 				<div class="slider">
 					<div class="item">
 						<a href="luxury-san-pham-tao-mau-toc-wax.php" class="thumbnail"><img src="images/products/thumbnail/luxury/wax-vuot-toc.png" alt=""></a>
-						<a href="luxury-san-pham-tao-mau-toc-wax.php" class="text-link">Wax tạo kiểu <br> X-Men For Boss luxury</a>
+						<a href="luxury-san-pham-tao-mau-toc-wax.php" class="text-link">Wax Vuốt Tóc <br> X-Men For Boss Freestyle</a>
 					</div>
 					<div class="item">
 						<a href="luxury-dau-goi-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/luxury/sua-tam.png" alt=""></a>
-						<a href="luxury-dau-goi-nuoc-hoa.php" class="text-link">Dầu gội <br> X-Men For Boss luxury <br> 650g</a>
+						<a href="luxury-dau-goi-nuoc-hoa.php" class="text-link">Dầu gội <br> X-Men For Boss Luxury <br> 650g</a>
 					</div>
 					<div class="item">
 						<a href="luxury-dau-goi-nuoc-hoa-180g.php" class="thumbnail"><img src="images/products/thumbnail/luxury/dau-goi-180g.png" alt=""></a>
-						<a href="luxury-dau-goi-nuoc-hoa-180g.php" class="text-link">Dầu gội <br> X-Men For Boss luxury <br> 180g</a>
+						<a href="luxury-dau-goi-nuoc-hoa-180g.php" class="text-link">Dầu gội <br> X-Men For Boss Luxury <br> 180g</a>
 					</div>
 					<div class="item">
 						<a href="luxury-sua-tam-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/luxury/sua-tam.png" alt=""></a>
-						<a href="luxury-sua-tam-nuoc-hoa.php" class="text-link">Sữa tắm <br>  X-Men For Boss luxury <br> 650g</a>
+						<a href="luxury-sua-tam-nuoc-hoa.php" class="text-link">Sữa tắm <br>  X-Men For Boss Luxury <br> 650g</a>
 					</div>
 					<div class="item">
 						<a href="luxury-sua-tam-nuoc-hoa-180g.php" class="thumbnail"><img src="images/products/thumbnail/luxury/sua-tam-180g.png" alt=""></a>
-						<a href="luxury-sua-tam-nuoc-hoa-180g.php" class="text-link">Sữa tắm <br>  X-Men For Boss luxury <br> 180g</a>
+						<a href="luxury-sua-tam-nuoc-hoa-180g.php" class="text-link">Sữa tắm <br>  X-Men For Boss Luxury <br> 180g</a>
 					</div>
 					
 					<div class="item">
 						<a href="luxury-nuoc-hoa.php" class="thumbnail"><img src="images/products/thumbnail/luxury/nuoc-hoa.png" alt=""></a>
-						<a href="luxury-nuoc-hoa.php" class="text-link">Nước hoa <br> X- X-Men For Boss luxury <br> 180g</a>
+						<a href="luxury-nuoc-hoa.php" class="text-link">Nước hoa <br> X-Men For Boss Luxury</a>
 					</div>
 					
 					<div class="item">
 						<a href="luxury-lan-khu-mui.php" class="thumbnail"><img src="images/products/thumbnail/luxury/lan-khu-mui.png" alt=""></a>
-						<a href="luxury-lan-khu-mui.php" class="text-link">Lăn khử mùi <br> X-Men For Boss luxury</a>
+						<a href="luxury-lan-khu-mui.php" class="text-link">Lăn khử mùi <br> X-Men For Boss Luxury</a>
 					</div>
 					<div class="item">
 						<a href="luxury-xit-toan-than.php" class="thumbnail"><img src="images/products/thumbnail/luxury/xit-khu-mui.png" alt=""></a>
-						<a href="luxury-xit-toan-than.php" class="text-link">Xịt toàn thân <br> X-Men For Boss luxury</a>
+						<a href="luxury-xit-toan-than.php" class="text-link">Xịt toàn thân <br> X-Men For Boss Luxury</a>
 					</div>
 				</div>
 			</div>
